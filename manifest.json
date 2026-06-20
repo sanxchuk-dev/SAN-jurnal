@@ -1,0 +1,27 @@
+{
+  "name": "SAN Jurnal Trading",
+  "short_name": "SAN Jurnal",
+  "description": "Jurnal trading profesional Sandy Chucky — Swing Trading IDX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0C0F",
+  "theme_color": "#00D98B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "id",
+  "dir": "ltr"
+}
